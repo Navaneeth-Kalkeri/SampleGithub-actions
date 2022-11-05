@@ -1,4 +1,4 @@
-name: 
+name: ci
 
 # Controls when the workflow will run
 on: [push]
